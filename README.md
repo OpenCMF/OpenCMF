@@ -1,4 +1,5 @@
 # OpenCMF
-OpenCMF是一款开源的PHP内容管理框架，前端采用Bootstrap，后端PHP+Mysql+Redis。
 
-文档地址：https://opencmf.makun.com
+OpenCMF更名为TinyCMF，打造更轻更快的高性能开发框架
+官网地址：https://www.tinycmf.com
+
